@@ -6,7 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Competitive Programming.
-- 📫 How to reach me: emaiId : maitrymakwana196@gmail.com
+- 👩‍🎓 Currently studying at National Institute of technology Karnataka.
+- 
+- 📫 emaiId : maitrymakwana196@gmail.com
+- LinkedIn : https://www.linkedin.com/in/maitry-makwana-62437821a/
 
 
