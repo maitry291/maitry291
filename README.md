@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 - 📫 emaiId : maitrymakwana196@gmail.com
 - LinkedIn : [Maitry Makwana](https://www.linkedin.com/in/maitry-makwana-62437821a/)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=maitry291)
+
 
 
