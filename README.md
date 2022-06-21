@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 👩‍🎓 Currently studying at National Institute of technology Karnataka.
-- 📫 emaiId : maitrymakwana196@gmail.com
+- Currently studying at [National Institute of technology Karnataka](https://www.nitk.ac.in/)
+- maitrymakwana196@gmail.com
 - LinkedIn : [Maitry Makwana](https://www.linkedin.com/in/maitry-makwana-62437821a/)
 
 <br>
