@@ -1,6 +1,6 @@
-### Hi there ✨, I am Maitry!          
-<img align="right" src="https://user-images.githubusercontent.com/83761752/176273909-4b74b41f-85bd-46e9-aa60-8bda0895701e.png" height="200" >
-  
+         
+<img align="right" src="https://user-images.githubusercontent.com/83761752/176273909-4b74b41f-85bd-46e9-aa60-8bda0895701e.png" height="150" >
+### Hi there ✨, I am Maitry!   
 
 <!--
 **maitry291/maitry291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
