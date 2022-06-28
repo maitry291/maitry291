@@ -1,4 +1,6 @@
-### Hi there ✨, I am Maitry!
+### Hi there ✨, I am Maitry!          
+<img align="right" src="https://user-images.githubusercontent.com/83761752/176273909-4b74b41f-85bd-46e9-aa60-8bda0895701e.png" height="200" >
+  
 
 <!--
 **maitry291/maitry291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 <a/>
 <a href="https://github.com/maitry291">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=maitry291&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maitry's GitHub Stats" />
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=maitry291&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maitry's GitHub Stats" />
 </a>
 
 <br>
