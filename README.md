@@ -23,5 +23,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+### 👽 Android Applications made by me--
+
+-DBMS mini project : [Schemes](https://github.com/maitry291/Schemes)
+
+-Android Project : [Food App](https://github.com/maitry291/Food-Order-App)
+
 
 
