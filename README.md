@@ -10,11 +10,18 @@ Here are some ideas to get you started:
 -->
 
 - Undergraduate student : [National Institute of technology Karnataka](https://www.nitk.ac.in/)
-- Email : maitrymakwana196@gmail.com
-- LinkedIn : [Maitry Makwana](https://www.linkedin.com/in/maitry-makwana-62437821a/)
+- ✉️ maitrymakwana196@gmail.com
 
-
-
+<div align="center" margin-left:auto >
+<a href="https://www.linkedin.com/in/maitry-makwana-62437821a/" >
+<img align="center"
+     src="https://user-images.githubusercontent.com/83761752/176514635-a859ba99-c22c-4750-8a89-4e5ee9923bc0.png" height="30dp">
+</a>
+<a href="https://www.instagram.com/maitry__05/" >
+<img align="center" 
+     src="https://user-images.githubusercontent.com/83761752/176515468-edb23d46-92db-43be-9a40-90ccad0d54b9.png" height="30dp">
+</a>
+</div>
 
 
 ### 🧮Progress
@@ -27,11 +34,27 @@ Here are some ideas to get you started:
 <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=maitry291&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maitry's GitHub Stats" />
 </a>
 
+
+
 ### 👽 Android Applications made by me--
 
 -DBMS mini project : [Schemes](https://github.com/maitry291/Schemes)
 
 -Android Project : [Food App](https://github.com/maitry291/Food-Order-App)
 
-
+### Skills-- 
+<div align="left" margin-left:auto >
+<a >
+<img align="center"
+     src="https://user-images.githubusercontent.com/83761752/176519662-3447c9be-de24-4a61-ad58-c3fc1f8b0f1f.png" height="30dp">
+</a>
+<a >
+<img align="center" 
+     src="https://user-images.githubusercontent.com/83761752/176520716-b83754e2-752d-43dd-ab56-f61312bea9ea.png" height="30dp">
+</a>
+<a >
+<img align="center" 
+     src="https://user-images.githubusercontent.com/83761752/176520256-038357a4-f004-4942-aa8d-83e79a9398e8.png" height="30dp">
+</a>
+</div>
 
