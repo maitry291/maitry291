@@ -9,7 +9,8 @@
 Here are some ideas to get you started:
 -->
 
-- Undergraduate student : [National Institute of technology Karnataka](https://www.nitk.ac.in/)
+- 🎓 Undergraduate student : [National Institute of technology Karnataka](https://www.nitk.ac.in/)
+- 📱 An App devloper : [Projects](https://github.com/maitry291/Android-Devlopment)
 - ✉️ maitrymakwana196@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=maitry291)
