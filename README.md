@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 - Undergraduate student : [National Institute of technology Karnataka](https://www.nitk.ac.in/)
 - ✉️ maitrymakwana196@gmail.com
-
 <div align="center" margin-left:auto >
 <a href="https://www.linkedin.com/in/maitry-makwana-62437821a/" >
 <img align="center"
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
      src="https://user-images.githubusercontent.com/83761752/176515468-edb23d46-92db-43be-9a40-90ccad0d54b9.png" height="30dp">
 </a>
 </div>
-
 
 ### 🧮Progress
 <a href="https://github.com/maitry291">
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 
 -Android Project : [Food App](https://github.com/maitry291/Food-Order-App)
 
-### Skills-- 
+### Skills 
 <div align="left" margin-left:auto >
 <a >
 <img align="center"
@@ -56,5 +54,4 @@ Here are some ideas to get you started:
 <img align="center" 
      src="https://user-images.githubusercontent.com/83761752/176520256-038357a4-f004-4942-aa8d-83e79a9398e8.png" height="30dp">
 </a>
-</div>
 
