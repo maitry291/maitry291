@@ -44,9 +44,11 @@ Here are some ideas to get you started:
 
 ### 👽 Android Applications made by me--
 
--DBMS mini project : [Schemes](https://github.com/maitry291/Schemes)
+-[Schemes](https://github.com/maitry291/Schemes) : DBMS mini project
 
--Android Project : [Food App](https://github.com/maitry291/Food-Order-App)
+-[Food App](https://github.com/maitry291/Food-Order-App) :Food ordering application
+
+-[Instagram UI](https://github.com/maitry291/Instagram-UI) : Clone of instagram
 
 ### Skills 
 <div align="left" margin-left:auto >
