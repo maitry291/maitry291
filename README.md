@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.instagram.com/maitry__05/" >
 <img align="center" 
-     src="https://user-images.githubusercontent.com/83761752/179311632-dda98d79-cab3-4eed-9c0e-392729db7bd6.png" height="30dp">
+     src="https://user-images.githubusercontent.com/83761752/176515468-edb23d46-92db-43be-9a40-90ccad0d54b9.png" height="30dp">
 </a>
 
 <a href="" >
 <img align="center" 
-     src="https://user-images.githubusercontent.com/83761752/179309043-6f9d92f3-afc5-43d9-8e91-384a0fa87065.png" height="30dp">
+     src="https://user-images.githubusercontent.com/83761752/179311632-dda98d79-cab3-4eed-9c0e-392729db7bd6.png" height="30dp">
 </a>
 <!-- <a href="maitrymakwana196@gmail.com">
 <img align="center" 
