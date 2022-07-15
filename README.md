@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 <img align="center" 
      src="https://user-images.githubusercontent.com/83761752/176515468-edb23d46-92db-43be-9a40-90ccad0d54b9.png" height="30dp">
 </a>
+<a href="https://www.instagram.com/maitry__05/" >
+<img align="center" 
+     src="https://user-images.githubusercontent.com/83761752/179309043-6f9d92f3-afc5-43d9-8e91-384a0fa87065.png" height="30dp">
+</a>
 <!-- <a href="maitrymakwana196@gmail.com">
 <img align="center" 
      src="https://user-images.githubusercontent.com/83761752/176534751-923cf492-c857-44f8-84c0-21d66ace1e07.png" height="33dp">
