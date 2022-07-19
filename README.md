@@ -24,7 +24,7 @@ Here are some ideas to get you started:
      src="https://user-images.githubusercontent.com/83761752/176515468-edb23d46-92db-43be-9a40-90ccad0d54b9.png" height="30dp">
 </a>
 
-<a href="" >
+<a href="https://twitter.com/Maitry__05" >
 <img align="center" 
      src="https://user-images.githubusercontent.com/83761752/179311632-dda98d79-cab3-4eed-9c0e-392729db7bd6.png" height="30dp">
 </a>
