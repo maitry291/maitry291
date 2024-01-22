@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 
 
-### 👽 Android Applications made by me--
+### Applications made by me--
+
+-[EasyTransit](https://github.com/maitry291/ParkandRide) : Booking Slot for parking vehicles
 
 -[Schemes](https://github.com/maitry291/Schemes) : DBMS mini project
 
