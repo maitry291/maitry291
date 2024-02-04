@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 -[EasyTransit](https://github.com/maitry291/ParkandRide) : Booking Slot for parking vehicles
 
--[Schemes](https://github.com/maitry291/Schemes) : DBMS mini project
+-[Schemes](https://github.com/maitry291/Schemes) : Database Management System(MySQL) project
 
 -[Food App](https://github.com/maitry291/Food-Order-App) :Food ordering application
 
